@@ -20,11 +20,11 @@ Reporting and Analytics: Generate comprehensive reports and analytics to gain in
 Hotel Portfolio
 Explore the diverse range of hotels managed by Phumla Kamnandi. Each hotel in the group offers a unique experience and set of services.
 
-Hotel Name 1: Description of the first hotel.
+Hotel Name 1: DBN hotel.
 
-Hotel Name 2: Description of the second hotel.
+Hotel Name 2: EL hotel.
 
-Hotel Name 3: Description of the third hotel.
+Hotel Name 3: CPT hotel.
 
 Contact Us
 For inquiries related to the Phumla Kamnandi Hotel Management System, please contact our central support desk:
